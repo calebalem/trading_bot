@@ -1,1 +1,1 @@
-a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. 
+bitcoin and Alt coin trading bot.
